@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "opSmPiSUctf21eaFxrCePc1A0tBGBKYQmZ14jj+ubM4=",
+  "Hash": "WFvZ34pB9LJzO9RDBqjSlAzJtIdU1POudZKoS51II64=",
   "Source": "BlazorDXAPP",
   "BasePath": "_content/BlazorDXAPP",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "BlazorDXAPP\\wwwroot",
       "Source": "BlazorDXAPP",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\BlazorDXAPP\\BlazorDXAPP\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\sample\\DevReportSample\\BlazorDXAPP\\BlazorDXAPP\\wwwroot\\",
       "BasePath": "_content/BlazorDXAPP",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor.reporting.viewer\\22.1.3\\staticwebassets\\css\\dx-blazor-reporting-components.bs5.css",
+      "Identity": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor.reporting.viewer\\22.1.5\\staticwebassets\\css\\dx-blazor-reporting-components.bs5.css",
       "SourceId": "DevExpress.Blazor.Reporting.Viewer",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor.reporting.viewer\\22.1.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor.reporting.viewer\\22.1.5\\staticwebassets\\",
       "BasePath": "_content/DevExpress.Blazor.Reporting.Viewer",
       "RelativePath": "css/dx-blazor-reporting-components.bs5.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor.reporting.viewer\\22.1.3\\staticwebassets\\css\\dx-blazor-reporting-components.bs5.css"
+      "OriginalItemSpec": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor.reporting.viewer\\22.1.5\\staticwebassets\\css\\dx-blazor-reporting-components.bs5.css"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor.reporting.viewer\\22.1.3\\staticwebassets\\css\\dx-blazor-reporting-components.css",
+      "Identity": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor.reporting.viewer\\22.1.5\\staticwebassets\\css\\dx-blazor-reporting-components.css",
       "SourceId": "DevExpress.Blazor.Reporting.Viewer",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor.reporting.viewer\\22.1.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor.reporting.viewer\\22.1.5\\staticwebassets\\",
       "BasePath": "_content/DevExpress.Blazor.Reporting.Viewer",
       "RelativePath": "css/dx-blazor-reporting-components.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor.reporting.viewer\\22.1.3\\staticwebassets\\css\\dx-blazor-reporting-components.css"
+      "OriginalItemSpec": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor.reporting.viewer\\22.1.5\\staticwebassets\\css\\dx-blazor-reporting-components.css"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor.reporting.viewer\\22.1.3\\staticwebassets\\dx-blazor-reporting.svg",
+      "Identity": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor.reporting.viewer\\22.1.5\\staticwebassets\\dx-blazor-reporting.svg",
       "SourceId": "DevExpress.Blazor.Reporting.Viewer",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor.reporting.viewer\\22.1.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor.reporting.viewer\\22.1.5\\staticwebassets\\",
       "BasePath": "_content/DevExpress.Blazor.Reporting.Viewer",
       "RelativePath": "dx-blazor-reporting.svg",
       "AssetKind": "All",
@@ -65,13 +65,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor.reporting.viewer\\22.1.3\\staticwebassets\\dx-blazor-reporting.svg"
+      "OriginalItemSpec": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor.reporting.viewer\\22.1.5\\staticwebassets\\dx-blazor-reporting.svg"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor.reporting.viewer\\22.1.3\\staticwebassets\\dx-blazor-reporting-viewer.js",
+      "Identity": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor.reporting.viewer\\22.1.5\\staticwebassets\\dx-blazor-reporting-viewer.js",
       "SourceId": "DevExpress.Blazor.Reporting.Viewer",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor.reporting.viewer\\22.1.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor.reporting.viewer\\22.1.5\\staticwebassets\\",
       "BasePath": "_content/DevExpress.Blazor.Reporting.Viewer",
       "RelativePath": "dx-blazor-reporting-viewer.js",
       "AssetKind": "All",
@@ -82,13 +82,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor.reporting.viewer\\22.1.3\\staticwebassets\\dx-blazor-reporting-viewer.js"
+      "OriginalItemSpec": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor.reporting.viewer\\22.1.5\\staticwebassets\\dx-blazor-reporting-viewer.js"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor.reporting.viewer\\22.1.3\\staticwebassets\\font\\Devexpress-Reporting-Icons.ttf",
+      "Identity": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor.reporting.viewer\\22.1.5\\staticwebassets\\font\\Devexpress-Reporting-Icons.ttf",
       "SourceId": "DevExpress.Blazor.Reporting.Viewer",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor.reporting.viewer\\22.1.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor.reporting.viewer\\22.1.5\\staticwebassets\\",
       "BasePath": "_content/DevExpress.Blazor.Reporting.Viewer",
       "RelativePath": "font/Devexpress-Reporting-Icons.ttf",
       "AssetKind": "All",
@@ -99,13 +99,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor.reporting.viewer\\22.1.3\\staticwebassets\\font\\Devexpress-Reporting-Icons.ttf"
+      "OriginalItemSpec": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor.reporting.viewer\\22.1.5\\staticwebassets\\font\\Devexpress-Reporting-Icons.ttf"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor.reporting.viewer\\22.1.3\\staticwebassets\\font\\Devexpress-Reporting-Icons.woff",
+      "Identity": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor.reporting.viewer\\22.1.5\\staticwebassets\\font\\Devexpress-Reporting-Icons.woff",
       "SourceId": "DevExpress.Blazor.Reporting.Viewer",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor.reporting.viewer\\22.1.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor.reporting.viewer\\22.1.5\\staticwebassets\\",
       "BasePath": "_content/DevExpress.Blazor.Reporting.Viewer",
       "RelativePath": "font/Devexpress-Reporting-Icons.woff",
       "AssetKind": "All",
@@ -116,13 +116,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor.reporting.viewer\\22.1.3\\staticwebassets\\font\\Devexpress-Reporting-Icons.woff"
+      "OriginalItemSpec": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor.reporting.viewer\\22.1.5\\staticwebassets\\font\\Devexpress-Reporting-Icons.woff"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor.reporting.viewer\\22.1.3\\staticwebassets\\font\\Devexpress-Reporting-Icons.woff2",
+      "Identity": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor.reporting.viewer\\22.1.5\\staticwebassets\\font\\Devexpress-Reporting-Icons.woff2",
       "SourceId": "DevExpress.Blazor.Reporting.Viewer",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor.reporting.viewer\\22.1.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor.reporting.viewer\\22.1.5\\staticwebassets\\",
       "BasePath": "_content/DevExpress.Blazor.Reporting.Viewer",
       "RelativePath": "font/Devexpress-Reporting-Icons.woff2",
       "AssetKind": "All",
@@ -133,13 +133,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor.reporting.viewer\\22.1.3\\staticwebassets\\font\\Devexpress-Reporting-Icons.woff2"
+      "OriginalItemSpec": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor.reporting.viewer\\22.1.5\\staticwebassets\\font\\Devexpress-Reporting-Icons.woff2"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor.themes\\22.1.3\\staticwebassets\\blazing-berry.bs4.css",
+      "Identity": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor.themes\\22.1.5\\staticwebassets\\blazing-berry.bs4.css",
       "SourceId": "DevExpress.Blazor.Themes",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor.themes\\22.1.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor.themes\\22.1.5\\staticwebassets\\",
       "BasePath": "_content/DevExpress.Blazor.Themes",
       "RelativePath": "blazing-berry.bs4.css",
       "AssetKind": "All",
@@ -150,13 +150,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor.themes\\22.1.3\\staticwebassets\\blazing-berry.bs4.css"
+      "OriginalItemSpec": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor.themes\\22.1.5\\staticwebassets\\blazing-berry.bs4.css"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor.themes\\22.1.3\\staticwebassets\\blazing-berry.bs4.min.css",
+      "Identity": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor.themes\\22.1.5\\staticwebassets\\blazing-berry.bs4.min.css",
       "SourceId": "DevExpress.Blazor.Themes",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor.themes\\22.1.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor.themes\\22.1.5\\staticwebassets\\",
       "BasePath": "_content/DevExpress.Blazor.Themes",
       "RelativePath": "blazing-berry.bs4.min.css",
       "AssetKind": "All",
@@ -167,13 +167,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor.themes\\22.1.3\\staticwebassets\\blazing-berry.bs4.min.css"
+      "OriginalItemSpec": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor.themes\\22.1.5\\staticwebassets\\blazing-berry.bs4.min.css"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor.themes\\22.1.3\\staticwebassets\\blazing-berry.bs5.css",
+      "Identity": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor.themes\\22.1.5\\staticwebassets\\blazing-berry.bs5.css",
       "SourceId": "DevExpress.Blazor.Themes",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor.themes\\22.1.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor.themes\\22.1.5\\staticwebassets\\",
       "BasePath": "_content/DevExpress.Blazor.Themes",
       "RelativePath": "blazing-berry.bs5.css",
       "AssetKind": "All",
@@ -184,13 +184,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor.themes\\22.1.3\\staticwebassets\\blazing-berry.bs5.css"
+      "OriginalItemSpec": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor.themes\\22.1.5\\staticwebassets\\blazing-berry.bs5.css"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor.themes\\22.1.3\\staticwebassets\\blazing-berry.bs5.min.css",
+      "Identity": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor.themes\\22.1.5\\staticwebassets\\blazing-berry.bs5.min.css",
       "SourceId": "DevExpress.Blazor.Themes",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor.themes\\22.1.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor.themes\\22.1.5\\staticwebassets\\",
       "BasePath": "_content/DevExpress.Blazor.Themes",
       "RelativePath": "blazing-berry.bs5.min.css",
       "AssetKind": "All",
@@ -201,13 +201,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor.themes\\22.1.3\\staticwebassets\\blazing-berry.bs5.min.css"
+      "OriginalItemSpec": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor.themes\\22.1.5\\staticwebassets\\blazing-berry.bs5.min.css"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor.themes\\22.1.3\\staticwebassets\\blazing-dark.bs4.css",
+      "Identity": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor.themes\\22.1.5\\staticwebassets\\blazing-dark.bs4.css",
       "SourceId": "DevExpress.Blazor.Themes",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor.themes\\22.1.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor.themes\\22.1.5\\staticwebassets\\",
       "BasePath": "_content/DevExpress.Blazor.Themes",
       "RelativePath": "blazing-dark.bs4.css",
       "AssetKind": "All",
@@ -218,13 +218,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor.themes\\22.1.3\\staticwebassets\\blazing-dark.bs4.css"
+      "OriginalItemSpec": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor.themes\\22.1.5\\staticwebassets\\blazing-dark.bs4.css"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor.themes\\22.1.3\\staticwebassets\\blazing-dark.bs4.min.css",
+      "Identity": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor.themes\\22.1.5\\staticwebassets\\blazing-dark.bs4.min.css",
       "SourceId": "DevExpress.Blazor.Themes",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor.themes\\22.1.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor.themes\\22.1.5\\staticwebassets\\",
       "BasePath": "_content/DevExpress.Blazor.Themes",
       "RelativePath": "blazing-dark.bs4.min.css",
       "AssetKind": "All",
@@ -235,13 +235,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor.themes\\22.1.3\\staticwebassets\\blazing-dark.bs4.min.css"
+      "OriginalItemSpec": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor.themes\\22.1.5\\staticwebassets\\blazing-dark.bs4.min.css"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor.themes\\22.1.3\\staticwebassets\\blazing-dark.bs5.css",
+      "Identity": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor.themes\\22.1.5\\staticwebassets\\blazing-dark.bs5.css",
       "SourceId": "DevExpress.Blazor.Themes",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor.themes\\22.1.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor.themes\\22.1.5\\staticwebassets\\",
       "BasePath": "_content/DevExpress.Blazor.Themes",
       "RelativePath": "blazing-dark.bs5.css",
       "AssetKind": "All",
@@ -252,13 +252,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor.themes\\22.1.3\\staticwebassets\\blazing-dark.bs5.css"
+      "OriginalItemSpec": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor.themes\\22.1.5\\staticwebassets\\blazing-dark.bs5.css"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor.themes\\22.1.3\\staticwebassets\\blazing-dark.bs5.min.css",
+      "Identity": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor.themes\\22.1.5\\staticwebassets\\blazing-dark.bs5.min.css",
       "SourceId": "DevExpress.Blazor.Themes",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor.themes\\22.1.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor.themes\\22.1.5\\staticwebassets\\",
       "BasePath": "_content/DevExpress.Blazor.Themes",
       "RelativePath": "blazing-dark.bs5.min.css",
       "AssetKind": "All",
@@ -269,13 +269,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor.themes\\22.1.3\\staticwebassets\\blazing-dark.bs5.min.css"
+      "OriginalItemSpec": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor.themes\\22.1.5\\staticwebassets\\blazing-dark.bs5.min.css"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor.themes\\22.1.3\\staticwebassets\\bootstrap-external.bs4.css",
+      "Identity": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor.themes\\22.1.5\\staticwebassets\\bootstrap-external.bs4.css",
       "SourceId": "DevExpress.Blazor.Themes",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor.themes\\22.1.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor.themes\\22.1.5\\staticwebassets\\",
       "BasePath": "_content/DevExpress.Blazor.Themes",
       "RelativePath": "bootstrap-external.bs4.css",
       "AssetKind": "All",
@@ -286,13 +286,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor.themes\\22.1.3\\staticwebassets\\bootstrap-external.bs4.css"
+      "OriginalItemSpec": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor.themes\\22.1.5\\staticwebassets\\bootstrap-external.bs4.css"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor.themes\\22.1.3\\staticwebassets\\bootstrap-external.bs4.min.css",
+      "Identity": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor.themes\\22.1.5\\staticwebassets\\bootstrap-external.bs4.min.css",
       "SourceId": "DevExpress.Blazor.Themes",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor.themes\\22.1.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor.themes\\22.1.5\\staticwebassets\\",
       "BasePath": "_content/DevExpress.Blazor.Themes",
       "RelativePath": "bootstrap-external.bs4.min.css",
       "AssetKind": "All",
@@ -303,13 +303,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor.themes\\22.1.3\\staticwebassets\\bootstrap-external.bs4.min.css"
+      "OriginalItemSpec": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor.themes\\22.1.5\\staticwebassets\\bootstrap-external.bs4.min.css"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor.themes\\22.1.3\\staticwebassets\\bootstrap-external.bs5.css",
+      "Identity": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor.themes\\22.1.5\\staticwebassets\\bootstrap-external.bs5.css",
       "SourceId": "DevExpress.Blazor.Themes",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor.themes\\22.1.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor.themes\\22.1.5\\staticwebassets\\",
       "BasePath": "_content/DevExpress.Blazor.Themes",
       "RelativePath": "bootstrap-external.bs5.css",
       "AssetKind": "All",
@@ -320,13 +320,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor.themes\\22.1.3\\staticwebassets\\bootstrap-external.bs5.css"
+      "OriginalItemSpec": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor.themes\\22.1.5\\staticwebassets\\bootstrap-external.bs5.css"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor.themes\\22.1.3\\staticwebassets\\bootstrap-external.bs5.min.css",
+      "Identity": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor.themes\\22.1.5\\staticwebassets\\bootstrap-external.bs5.min.css",
       "SourceId": "DevExpress.Blazor.Themes",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor.themes\\22.1.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor.themes\\22.1.5\\staticwebassets\\",
       "BasePath": "_content/DevExpress.Blazor.Themes",
       "RelativePath": "bootstrap-external.bs5.min.css",
       "AssetKind": "All",
@@ -337,13 +337,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor.themes\\22.1.3\\staticwebassets\\bootstrap-external.bs5.min.css"
+      "OriginalItemSpec": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor.themes\\22.1.5\\staticwebassets\\bootstrap-external.bs5.min.css"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor.themes\\22.1.3\\staticwebassets\\office-white.bs4.css",
+      "Identity": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor.themes\\22.1.5\\staticwebassets\\office-white.bs4.css",
       "SourceId": "DevExpress.Blazor.Themes",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor.themes\\22.1.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor.themes\\22.1.5\\staticwebassets\\",
       "BasePath": "_content/DevExpress.Blazor.Themes",
       "RelativePath": "office-white.bs4.css",
       "AssetKind": "All",
@@ -354,13 +354,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor.themes\\22.1.3\\staticwebassets\\office-white.bs4.css"
+      "OriginalItemSpec": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor.themes\\22.1.5\\staticwebassets\\office-white.bs4.css"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor.themes\\22.1.3\\staticwebassets\\office-white.bs4.min.css",
+      "Identity": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor.themes\\22.1.5\\staticwebassets\\office-white.bs4.min.css",
       "SourceId": "DevExpress.Blazor.Themes",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor.themes\\22.1.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor.themes\\22.1.5\\staticwebassets\\",
       "BasePath": "_content/DevExpress.Blazor.Themes",
       "RelativePath": "office-white.bs4.min.css",
       "AssetKind": "All",
@@ -371,13 +371,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor.themes\\22.1.3\\staticwebassets\\office-white.bs4.min.css"
+      "OriginalItemSpec": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor.themes\\22.1.5\\staticwebassets\\office-white.bs4.min.css"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor.themes\\22.1.3\\staticwebassets\\office-white.bs5.css",
+      "Identity": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor.themes\\22.1.5\\staticwebassets\\office-white.bs5.css",
       "SourceId": "DevExpress.Blazor.Themes",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor.themes\\22.1.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor.themes\\22.1.5\\staticwebassets\\",
       "BasePath": "_content/DevExpress.Blazor.Themes",
       "RelativePath": "office-white.bs5.css",
       "AssetKind": "All",
@@ -388,13 +388,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor.themes\\22.1.3\\staticwebassets\\office-white.bs5.css"
+      "OriginalItemSpec": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor.themes\\22.1.5\\staticwebassets\\office-white.bs5.css"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor.themes\\22.1.3\\staticwebassets\\office-white.bs5.min.css",
+      "Identity": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor.themes\\22.1.5\\staticwebassets\\office-white.bs5.min.css",
       "SourceId": "DevExpress.Blazor.Themes",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor.themes\\22.1.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor.themes\\22.1.5\\staticwebassets\\",
       "BasePath": "_content/DevExpress.Blazor.Themes",
       "RelativePath": "office-white.bs5.min.css",
       "AssetKind": "All",
@@ -405,13 +405,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor.themes\\22.1.3\\staticwebassets\\office-white.bs5.min.css"
+      "OriginalItemSpec": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor.themes\\22.1.5\\staticwebassets\\office-white.bs5.min.css"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor.themes\\22.1.3\\staticwebassets\\purple.bs4.css",
+      "Identity": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor.themes\\22.1.5\\staticwebassets\\purple.bs4.css",
       "SourceId": "DevExpress.Blazor.Themes",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor.themes\\22.1.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor.themes\\22.1.5\\staticwebassets\\",
       "BasePath": "_content/DevExpress.Blazor.Themes",
       "RelativePath": "purple.bs4.css",
       "AssetKind": "All",
@@ -422,13 +422,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor.themes\\22.1.3\\staticwebassets\\purple.bs4.css"
+      "OriginalItemSpec": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor.themes\\22.1.5\\staticwebassets\\purple.bs4.css"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor.themes\\22.1.3\\staticwebassets\\purple.bs4.min.css",
+      "Identity": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor.themes\\22.1.5\\staticwebassets\\purple.bs4.min.css",
       "SourceId": "DevExpress.Blazor.Themes",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor.themes\\22.1.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor.themes\\22.1.5\\staticwebassets\\",
       "BasePath": "_content/DevExpress.Blazor.Themes",
       "RelativePath": "purple.bs4.min.css",
       "AssetKind": "All",
@@ -439,13 +439,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor.themes\\22.1.3\\staticwebassets\\purple.bs4.min.css"
+      "OriginalItemSpec": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor.themes\\22.1.5\\staticwebassets\\purple.bs4.min.css"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor.themes\\22.1.3\\staticwebassets\\purple.bs5.css",
+      "Identity": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor.themes\\22.1.5\\staticwebassets\\purple.bs5.css",
       "SourceId": "DevExpress.Blazor.Themes",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor.themes\\22.1.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor.themes\\22.1.5\\staticwebassets\\",
       "BasePath": "_content/DevExpress.Blazor.Themes",
       "RelativePath": "purple.bs5.css",
       "AssetKind": "All",
@@ -456,13 +456,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor.themes\\22.1.3\\staticwebassets\\purple.bs5.css"
+      "OriginalItemSpec": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor.themes\\22.1.5\\staticwebassets\\purple.bs5.css"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor.themes\\22.1.3\\staticwebassets\\purple.bs5.min.css",
+      "Identity": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor.themes\\22.1.5\\staticwebassets\\purple.bs5.min.css",
       "SourceId": "DevExpress.Blazor.Themes",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor.themes\\22.1.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor.themes\\22.1.5\\staticwebassets\\",
       "BasePath": "_content/DevExpress.Blazor.Themes",
       "RelativePath": "purple.bs5.min.css",
       "AssetKind": "All",
@@ -473,13 +473,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor.themes\\22.1.3\\staticwebassets\\purple.bs5.min.css"
+      "OriginalItemSpec": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor.themes\\22.1.5\\staticwebassets\\purple.bs5.min.css"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\dx-blazor.svg",
+      "Identity": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\dx-blazor.svg",
       "SourceId": "DevExpress.Blazor",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\",
       "BasePath": "_content/DevExpress.Blazor",
       "RelativePath": "dx-blazor.svg",
       "AssetKind": "All",
@@ -490,13 +490,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\dx-blazor.svg"
+      "OriginalItemSpec": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\dx-blazor.svg"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\_tslib-158249d5.js",
+      "Identity": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\_tslib-158249d5.js",
       "SourceId": "DevExpress.Blazor",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\",
       "BasePath": "_content/DevExpress.Blazor",
       "RelativePath": "modules/_tslib-158249d5.js",
       "AssetKind": "All",
@@ -507,15 +507,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\_tslib-158249d5.js"
+      "OriginalItemSpec": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\_tslib-158249d5.js"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\adaptivedropdowncomponents-ecb39c95.js",
+      "Identity": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\adaptivedropdowncomponents-0f3dbd54.js",
       "SourceId": "DevExpress.Blazor",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\",
       "BasePath": "_content/DevExpress.Blazor",
-      "RelativePath": "modules/adaptivedropdowncomponents-ecb39c95.js",
+      "RelativePath": "modules/adaptivedropdowncomponents-0f3dbd54.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -524,13 +524,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\adaptivedropdowncomponents-ecb39c95.js"
+      "OriginalItemSpec": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\adaptivedropdowncomponents-0f3dbd54.js"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\after-render-utils-481c3285.js",
+      "Identity": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\after-render-utils-481c3285.js",
       "SourceId": "DevExpress.Blazor",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\",
       "BasePath": "_content/DevExpress.Blazor",
       "RelativePath": "modules/after-render-utils-481c3285.js",
       "AssetKind": "All",
@@ -541,15 +541,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\after-render-utils-481c3285.js"
+      "OriginalItemSpec": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\after-render-utils-481c3285.js"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\baseChart-a06b022e.js",
+      "Identity": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\baseChart-b9ac9606.js",
       "SourceId": "DevExpress.Blazor",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\",
       "BasePath": "_content/DevExpress.Blazor",
-      "RelativePath": "modules/baseChart-a06b022e.js",
+      "RelativePath": "modules/baseChart-b9ac9606.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -558,15 +558,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\baseChart-a06b022e.js"
+      "OriginalItemSpec": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\baseChart-b9ac9606.js"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\bootstrap-core-dec305e5.js",
+      "Identity": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\bootstrap-core-b1792266.js",
       "SourceId": "DevExpress.Blazor",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\",
       "BasePath": "_content/DevExpress.Blazor",
-      "RelativePath": "modules/bootstrap-core-dec305e5.js",
+      "RelativePath": "modules/bootstrap-core-b1792266.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -575,15 +575,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\bootstrap-core-dec305e5.js"
+      "OriginalItemSpec": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\bootstrap-core-b1792266.js"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\branch-99999a8c.js",
+      "Identity": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\branch-ea431ccc.js",
       "SourceId": "DevExpress.Blazor",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\",
       "BasePath": "_content/DevExpress.Blazor",
-      "RelativePath": "modules/branch-99999a8c.js",
+      "RelativePath": "modules/branch-ea431ccc.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -592,15 +592,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\branch-99999a8c.js"
+      "OriginalItemSpec": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\branch-ea431ccc.js"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\browser-d96520d8.js",
+      "Identity": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\browser-a3d50e79.js",
       "SourceId": "DevExpress.Blazor",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\",
       "BasePath": "_content/DevExpress.Blazor",
-      "RelativePath": "modules/browser-d96520d8.js",
+      "RelativePath": "modules/browser-a3d50e79.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -609,15 +609,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\browser-d96520d8.js"
+      "OriginalItemSpec": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\browser-a3d50e79.js"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\button-4e187fcc.js",
+      "Identity": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\button-a2ba68b9.js",
       "SourceId": "DevExpress.Blazor",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\",
       "BasePath": "_content/DevExpress.Blazor",
-      "RelativePath": "modules/button-4e187fcc.js",
+      "RelativePath": "modules/button-a2ba68b9.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -626,15 +626,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\button-4e187fcc.js"
+      "OriginalItemSpec": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\button-a2ba68b9.js"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\button-components-ac98495a.js",
+      "Identity": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\button-components-15446341.js",
       "SourceId": "DevExpress.Blazor",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\",
       "BasePath": "_content/DevExpress.Blazor",
-      "RelativePath": "modules/button-components-ac98495a.js",
+      "RelativePath": "modules/button-components-15446341.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -643,15 +643,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\button-components-ac98495a.js"
+      "OriginalItemSpec": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\button-components-15446341.js"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\buttonedit-1c414785.js",
+      "Identity": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\buttonedit-7bac4ac1.js",
       "SourceId": "DevExpress.Blazor",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\",
       "BasePath": "_content/DevExpress.Blazor",
-      "RelativePath": "modules/buttonedit-1c414785.js",
+      "RelativePath": "modules/buttonedit-7bac4ac1.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -660,13 +660,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\buttonedit-1c414785.js"
+      "OriginalItemSpec": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\buttonedit-7bac4ac1.js"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\capturemanager-c7d5aef8.js",
+      "Identity": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\capturemanager-c7d5aef8.js",
       "SourceId": "DevExpress.Blazor",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\",
       "BasePath": "_content/DevExpress.Blazor",
       "RelativePath": "modules/capturemanager-c7d5aef8.js",
       "AssetKind": "All",
@@ -677,15 +677,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\capturemanager-c7d5aef8.js"
+      "OriginalItemSpec": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\capturemanager-c7d5aef8.js"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\chart-e0ea6c32.js",
+      "Identity": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\chart-98e7ff9c.js",
       "SourceId": "DevExpress.Blazor",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\",
       "BasePath": "_content/DevExpress.Blazor",
-      "RelativePath": "modules/chart-e0ea6c32.js",
+      "RelativePath": "modules/chart-98e7ff9c.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -694,15 +694,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\chart-e0ea6c32.js"
+      "OriginalItemSpec": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\chart-98e7ff9c.js"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\check-components-21672c40.js",
+      "Identity": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\check-components-b8f06ac4.js",
       "SourceId": "DevExpress.Blazor",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\",
       "BasePath": "_content/DevExpress.Blazor",
-      "RelativePath": "modules/check-components-21672c40.js",
+      "RelativePath": "modules/check-components-b8f06ac4.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -711,15 +711,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\check-components-21672c40.js"
+      "OriginalItemSpec": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\check-components-b8f06ac4.js"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\coloredit-42d9def1.js",
+      "Identity": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\coloredit-81cbaf95.js",
       "SourceId": "DevExpress.Blazor",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\",
       "BasePath": "_content/DevExpress.Blazor",
-      "RelativePath": "modules/coloredit-42d9def1.js",
+      "RelativePath": "modules/coloredit-81cbaf95.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -728,15 +728,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\coloredit-42d9def1.js"
+      "OriginalItemSpec": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\coloredit-81cbaf95.js"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\columnchooser-5532b805.js",
+      "Identity": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\columnchooser-bc605ee2.js",
       "SourceId": "DevExpress.Blazor",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\",
       "BasePath": "_content/DevExpress.Blazor",
-      "RelativePath": "modules/columnchooser-5532b805.js",
+      "RelativePath": "modules/columnchooser-bc605ee2.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -745,15 +745,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\columnchooser-5532b805.js"
+      "OriginalItemSpec": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\columnchooser-bc605ee2.js"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\column-resize-9f00ee6e.js",
+      "Identity": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\column-resize-b770c343.js",
       "SourceId": "DevExpress.Blazor",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\",
       "BasePath": "_content/DevExpress.Blazor",
-      "RelativePath": "modules/column-resize-9f00ee6e.js",
+      "RelativePath": "modules/column-resize-b770c343.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -762,13 +762,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\column-resize-9f00ee6e.js"
+      "OriginalItemSpec": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\column-resize-b770c343.js"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\custom-element-bd7061f2.js",
+      "Identity": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\custom-element-bd7061f2.js",
       "SourceId": "DevExpress.Blazor",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\",
       "BasePath": "_content/DevExpress.Blazor",
       "RelativePath": "modules/custom-element-bd7061f2.js",
       "AssetKind": "All",
@@ -779,13 +779,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\custom-element-bd7061f2.js"
+      "OriginalItemSpec": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\custom-element-bd7061f2.js"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\custom-events-helper-18f7786a.js",
+      "Identity": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\custom-events-helper-18f7786a.js",
       "SourceId": "DevExpress.Blazor",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\",
       "BasePath": "_content/DevExpress.Blazor",
       "RelativePath": "modules/custom-events-helper-18f7786a.js",
       "AssetKind": "All",
@@ -796,13 +796,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\custom-events-helper-18f7786a.js"
+      "OriginalItemSpec": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\custom-events-helper-18f7786a.js"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\data-qa-utils-8be7c726.js",
+      "Identity": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\data-qa-utils-8be7c726.js",
       "SourceId": "DevExpress.Blazor",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\",
       "BasePath": "_content/DevExpress.Blazor",
       "RelativePath": "modules/data-qa-utils-8be7c726.js",
       "AssetKind": "All",
@@ -813,13 +813,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\data-qa-utils-8be7c726.js"
+      "OriginalItemSpec": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\data-qa-utils-8be7c726.js"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\define-custom-element-ee3a9585.js",
+      "Identity": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\define-custom-element-ee3a9585.js",
       "SourceId": "DevExpress.Blazor",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\",
       "BasePath": "_content/DevExpress.Blazor",
       "RelativePath": "modules/define-custom-element-ee3a9585.js",
       "AssetKind": "All",
@@ -830,13 +830,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\define-custom-element-ee3a9585.js"
+      "OriginalItemSpec": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\define-custom-element-ee3a9585.js"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\devexpress-394524a9.js",
+      "Identity": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\devexpress-394524a9.js",
       "SourceId": "DevExpress.Blazor",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\",
       "BasePath": "_content/DevExpress.Blazor",
       "RelativePath": "modules/devexpress-394524a9.js",
       "AssetKind": "All",
@@ -847,13 +847,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\devexpress-394524a9.js"
+      "OriginalItemSpec": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\devexpress-394524a9.js"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\disposable-d2c2d283.js",
+      "Identity": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\disposable-d2c2d283.js",
       "SourceId": "DevExpress.Blazor",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\",
       "BasePath": "_content/DevExpress.Blazor",
       "RelativePath": "modules/disposable-d2c2d283.js",
       "AssetKind": "All",
@@ -864,15 +864,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\disposable-d2c2d283.js"
+      "OriginalItemSpec": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\disposable-d2c2d283.js"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\dom-240f808d.js",
+      "Identity": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\dom-95153cd1.js",
       "SourceId": "DevExpress.Blazor",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\",
       "BasePath": "_content/DevExpress.Blazor",
-      "RelativePath": "modules/dom-240f808d.js",
+      "RelativePath": "modules/dom-95153cd1.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -881,15 +881,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\dom-240f808d.js"
+      "OriginalItemSpec": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\dom-95153cd1.js"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\dom-utils-3d3da54b.js",
+      "Identity": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\dom-utils-2919d18e.js",
       "SourceId": "DevExpress.Blazor",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\",
       "BasePath": "_content/DevExpress.Blazor",
-      "RelativePath": "modules/dom-utils-3d3da54b.js",
+      "RelativePath": "modules/dom-utils-2919d18e.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -898,15 +898,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\dom-utils-3d3da54b.js"
+      "OriginalItemSpec": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\dom-utils-2919d18e.js"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\dragAndDropUnit-ce6210e1.js",
+      "Identity": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\dragAndDropUnit-87b22292.js",
       "SourceId": "DevExpress.Blazor",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\",
       "BasePath": "_content/DevExpress.Blazor",
-      "RelativePath": "modules/dragAndDropUnit-ce6210e1.js",
+      "RelativePath": "modules/dragAndDropUnit-87b22292.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -915,13 +915,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\dragAndDropUnit-ce6210e1.js"
+      "OriginalItemSpec": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\dragAndDropUnit-87b22292.js"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\draggable-2d8f9621.js",
+      "Identity": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\draggable-2d8f9621.js",
       "SourceId": "DevExpress.Blazor",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\",
       "BasePath": "_content/DevExpress.Blazor",
       "RelativePath": "modules/draggable-2d8f9621.js",
       "AssetKind": "All",
@@ -932,15 +932,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\draggable-2d8f9621.js"
+      "OriginalItemSpec": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\draggable-2d8f9621.js"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\dropdowncomponents-d62a8c8b.js",
+      "Identity": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\dropdowncomponents-8e7e3454.js",
       "SourceId": "DevExpress.Blazor",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\",
       "BasePath": "_content/DevExpress.Blazor",
-      "RelativePath": "modules/dropdowncomponents-d62a8c8b.js",
+      "RelativePath": "modules/dropdowncomponents-8e7e3454.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -949,15 +949,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\dropdowncomponents-d62a8c8b.js"
+      "OriginalItemSpec": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\dropdowncomponents-8e7e3454.js"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\dropdowns-3ce94c9f.js",
+      "Identity": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\dropdowns-fe8fea38.js",
       "SourceId": "DevExpress.Blazor",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\",
       "BasePath": "_content/DevExpress.Blazor",
-      "RelativePath": "modules/dropdowns-3ce94c9f.js",
+      "RelativePath": "modules/dropdowns-fe8fea38.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -966,15 +966,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\dropdowns-3ce94c9f.js"
+      "OriginalItemSpec": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\dropdowns-fe8fea38.js"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\dx-blazor-ce65b6a3.js",
+      "Identity": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\dx-blazor-48a02221.js",
       "SourceId": "DevExpress.Blazor",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\",
       "BasePath": "_content/DevExpress.Blazor",
-      "RelativePath": "modules/dx-blazor-ce65b6a3.js",
+      "RelativePath": "modules/dx-blazor-48a02221.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -983,15 +983,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\dx-blazor-ce65b6a3.js"
+      "OriginalItemSpec": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\dx-blazor-48a02221.js"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\dx-calendar-63940c53.js",
+      "Identity": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\dx-calendar-9498781f.js",
       "SourceId": "DevExpress.Blazor",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\",
       "BasePath": "_content/DevExpress.Blazor",
-      "RelativePath": "modules/dx-calendar-63940c53.js",
+      "RelativePath": "modules/dx-calendar-9498781f.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1000,15 +1000,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\dx-calendar-63940c53.js"
+      "OriginalItemSpec": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\dx-calendar-9498781f.js"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\dx-check-internal-8fe76c09.js",
+      "Identity": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\dx-check-internal-cc9134cb.js",
       "SourceId": "DevExpress.Blazor",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\",
       "BasePath": "_content/DevExpress.Blazor",
-      "RelativePath": "modules/dx-check-internal-8fe76c09.js",
+      "RelativePath": "modules/dx-check-internal-cc9134cb.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1017,15 +1017,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\dx-check-internal-8fe76c09.js"
+      "OriginalItemSpec": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\dx-check-internal-cc9134cb.js"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\dx-combobox-bcdd0886.js",
+      "Identity": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\dx-combobox-97bba36b.js",
       "SourceId": "DevExpress.Blazor",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\",
       "BasePath": "_content/DevExpress.Blazor",
-      "RelativePath": "modules/dx-combobox-bcdd0886.js",
+      "RelativePath": "modules/dx-combobox-97bba36b.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1034,15 +1034,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\dx-combobox-bcdd0886.js"
+      "OriginalItemSpec": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\dx-combobox-97bba36b.js"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\dx-date-time-edit-d63d58d1.js",
+      "Identity": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\dx-date-time-edit-e82bef44.js",
       "SourceId": "DevExpress.Blazor",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\",
       "BasePath": "_content/DevExpress.Blazor",
-      "RelativePath": "modules/dx-date-time-edit-d63d58d1.js",
+      "RelativePath": "modules/dx-date-time-edit-e82bef44.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1051,15 +1051,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\dx-date-time-edit-d63d58d1.js"
+      "OriginalItemSpec": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\dx-date-time-edit-e82bef44.js"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\dx-dropdown-editor-base-1a6d8313.js",
+      "Identity": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\dx-dropdown-editor-base-fb2dac6c.js",
       "SourceId": "DevExpress.Blazor",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\",
       "BasePath": "_content/DevExpress.Blazor",
-      "RelativePath": "modules/dx-dropdown-editor-base-1a6d8313.js",
+      "RelativePath": "modules/dx-dropdown-editor-base-fb2dac6c.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1068,15 +1068,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\dx-dropdown-editor-base-1a6d8313.js"
+      "OriginalItemSpec": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\dx-dropdown-editor-base-fb2dac6c.js"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\dx-dropdown-owner-e77925aa.js",
+      "Identity": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\dx-dropdown-owner-899c537e.js",
       "SourceId": "DevExpress.Blazor",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\",
       "BasePath": "_content/DevExpress.Blazor",
-      "RelativePath": "modules/dx-dropdown-owner-e77925aa.js",
+      "RelativePath": "modules/dx-dropdown-owner-899c537e.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1085,15 +1085,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\dx-dropdown-owner-e77925aa.js"
+      "OriginalItemSpec": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\dx-dropdown-owner-899c537e.js"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\dx-grid-e81dd196.js",
+      "Identity": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\dx-grid-fa93a608.js",
       "SourceId": "DevExpress.Blazor",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\",
       "BasePath": "_content/DevExpress.Blazor",
-      "RelativePath": "modules/dx-grid-e81dd196.js",
+      "RelativePath": "modules/dx-grid-fa93a608.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1102,15 +1102,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\dx-grid-e81dd196.js"
+      "OriginalItemSpec": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\dx-grid-fa93a608.js"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\dx-html-element-base-62418884.js",
+      "Identity": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\dx-html-element-base-1a4cd1ce.js",
       "SourceId": "DevExpress.Blazor",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\",
       "BasePath": "_content/DevExpress.Blazor",
-      "RelativePath": "modules/dx-html-element-base-62418884.js",
+      "RelativePath": "modules/dx-html-element-base-1a4cd1ce.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1119,15 +1119,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\dx-html-element-base-62418884.js"
+      "OriginalItemSpec": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\dx-html-element-base-1a4cd1ce.js"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\dx-listbox-8c4cd6a4.js",
+      "Identity": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\dx-listbox-8f043178.js",
       "SourceId": "DevExpress.Blazor",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\",
       "BasePath": "_content/DevExpress.Blazor",
-      "RelativePath": "modules/dx-listbox-8c4cd6a4.js",
+      "RelativePath": "modules/dx-listbox-8f043178.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1136,15 +1136,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\dx-listbox-8c4cd6a4.js"
+      "OriginalItemSpec": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\dx-listbox-8f043178.js"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\dx-menu-fc3561f8.js",
+      "Identity": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\dx-menu-8baf9902.js",
       "SourceId": "DevExpress.Blazor",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\",
       "BasePath": "_content/DevExpress.Blazor",
-      "RelativePath": "modules/dx-menu-fc3561f8.js",
+      "RelativePath": "modules/dx-menu-8baf9902.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1153,15 +1153,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\dx-menu-fc3561f8.js"
+      "OriginalItemSpec": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\dx-menu-8baf9902.js"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\dx-menu-item-cc995e50.js",
+      "Identity": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\dx-menu-item-65a35d6c.js",
       "SourceId": "DevExpress.Blazor",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\",
       "BasePath": "_content/DevExpress.Blazor",
-      "RelativePath": "modules/dx-menu-item-cc995e50.js",
+      "RelativePath": "modules/dx-menu-item-65a35d6c.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1170,13 +1170,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\dx-menu-item-cc995e50.js"
+      "OriginalItemSpec": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\dx-menu-item-65a35d6c.js"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\dx-menu-preloader-f1628f13.js",
+      "Identity": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\dx-menu-preloader-f1628f13.js",
       "SourceId": "DevExpress.Blazor",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\",
       "BasePath": "_content/DevExpress.Blazor",
       "RelativePath": "modules/dx-menu-preloader-f1628f13.js",
       "AssetKind": "All",
@@ -1187,15 +1187,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\dx-menu-preloader-f1628f13.js"
+      "OriginalItemSpec": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\dx-menu-preloader-f1628f13.js"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\dx-scroll-viewer-d02d668a.js",
+      "Identity": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\dx-scroll-viewer-1defddb2.js",
       "SourceId": "DevExpress.Blazor",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\",
       "BasePath": "_content/DevExpress.Blazor",
-      "RelativePath": "modules/dx-scroll-viewer-d02d668a.js",
+      "RelativePath": "modules/dx-scroll-viewer-1defddb2.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1204,15 +1204,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\dx-scroll-viewer-d02d668a.js"
+      "OriginalItemSpec": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\dx-scroll-viewer-1defddb2.js"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\dx-style-helper-9c6416e4.js",
+      "Identity": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\dx-style-helper-8d4eb2c7.js",
       "SourceId": "DevExpress.Blazor",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\",
       "BasePath": "_content/DevExpress.Blazor",
-      "RelativePath": "modules/dx-style-helper-9c6416e4.js",
+      "RelativePath": "modules/dx-style-helper-8d4eb2c7.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1221,15 +1221,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\dx-style-helper-9c6416e4.js"
+      "OriginalItemSpec": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\dx-style-helper-8d4eb2c7.js"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\dx-tagbox-3ec92b2f.js",
+      "Identity": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\dx-tagbox-6e609960.js",
       "SourceId": "DevExpress.Blazor",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\",
       "BasePath": "_content/DevExpress.Blazor",
-      "RelativePath": "modules/dx-tagbox-3ec92b2f.js",
+      "RelativePath": "modules/dx-tagbox-6e609960.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1238,15 +1238,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\dx-tagbox-3ec92b2f.js"
+      "OriginalItemSpec": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\dx-tagbox-6e609960.js"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\dx-ui-element-c0c26c83.js",
+      "Identity": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\dx-ui-element-de378e9d.js",
       "SourceId": "DevExpress.Blazor",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\",
       "BasePath": "_content/DevExpress.Blazor",
-      "RelativePath": "modules/dx-ui-element-c0c26c83.js",
+      "RelativePath": "modules/dx-ui-element-de378e9d.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1255,13 +1255,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\dx-ui-element-c0c26c83.js"
+      "OriginalItemSpec": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\dx-ui-element-de378e9d.js"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\dx-ui-handlers-bridge-4076ae57.js",
+      "Identity": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\dx-ui-handlers-bridge-4076ae57.js",
       "SourceId": "DevExpress.Blazor",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\",
       "BasePath": "_content/DevExpress.Blazor",
       "RelativePath": "modules/dx-ui-handlers-bridge-4076ae57.js",
       "AssetKind": "All",
@@ -1272,15 +1272,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\dx-ui-handlers-bridge-4076ae57.js"
+      "OriginalItemSpec": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\dx-ui-handlers-bridge-4076ae57.js"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\dynamic-stylesheet-component-3bfde80e.js",
+      "Identity": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\dynamic-stylesheet-component-7250d313.js",
       "SourceId": "DevExpress.Blazor",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\",
       "BasePath": "_content/DevExpress.Blazor",
-      "RelativePath": "modules/dynamic-stylesheet-component-3bfde80e.js",
+      "RelativePath": "modules/dynamic-stylesheet-component-7250d313.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1289,15 +1289,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\dynamic-stylesheet-component-3bfde80e.js"
+      "OriginalItemSpec": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\dynamic-stylesheet-component-7250d313.js"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\editor-components-b7b6c402.js",
+      "Identity": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\editor-components-10eb4bcb.js",
       "SourceId": "DevExpress.Blazor",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\",
       "BasePath": "_content/DevExpress.Blazor",
-      "RelativePath": "modules/editor-components-b7b6c402.js",
+      "RelativePath": "modules/editor-components-10eb4bcb.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1306,13 +1306,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\editor-components-b7b6c402.js"
+      "OriginalItemSpec": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\editor-components-10eb4bcb.js"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\elementobserver-5f004683.js",
+      "Identity": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\elementobserver-5f004683.js",
       "SourceId": "DevExpress.Blazor",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\",
       "BasePath": "_content/DevExpress.Blazor",
       "RelativePath": "modules/elementobserver-5f004683.js",
       "AssetKind": "All",
@@ -1323,13 +1323,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\elementobserver-5f004683.js"
+      "OriginalItemSpec": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\elementobserver-5f004683.js"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\eventhelper-8570b930.js",
+      "Identity": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\eventhelper-8570b930.js",
       "SourceId": "DevExpress.Blazor",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\",
       "BasePath": "_content/DevExpress.Blazor",
       "RelativePath": "modules/eventhelper-8570b930.js",
       "AssetKind": "All",
@@ -1340,13 +1340,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\eventhelper-8570b930.js"
+      "OriginalItemSpec": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\eventhelper-8570b930.js"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\eventRegister-fb9b0e47.js",
+      "Identity": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\eventRegister-fb9b0e47.js",
       "SourceId": "DevExpress.Blazor",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\",
       "BasePath": "_content/DevExpress.Blazor",
       "RelativePath": "modules/eventRegister-fb9b0e47.js",
       "AssetKind": "All",
@@ -1357,15 +1357,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\eventRegister-fb9b0e47.js"
+      "OriginalItemSpec": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\eventRegister-fb9b0e47.js"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\events-interseptor-c8b48564.js",
+      "Identity": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\events-interseptor-4336a3f0.js",
       "SourceId": "DevExpress.Blazor",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\",
       "BasePath": "_content/DevExpress.Blazor",
-      "RelativePath": "modules/events-interseptor-c8b48564.js",
+      "RelativePath": "modules/events-interseptor-4336a3f0.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1374,15 +1374,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\events-interseptor-c8b48564.js"
+      "OriginalItemSpec": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\events-interseptor-4336a3f0.js"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\evt-580669db.js",
+      "Identity": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\evt-6e987c4f.js",
       "SourceId": "DevExpress.Blazor",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\",
       "BasePath": "_content/DevExpress.Blazor",
-      "RelativePath": "modules/evt-580669db.js",
+      "RelativePath": "modules/evt-6e987c4f.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1391,15 +1391,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\evt-580669db.js"
+      "OriginalItemSpec": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\evt-6e987c4f.js"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\filemanager-3beff649.js",
+      "Identity": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\filemanager-35bab3be.js",
       "SourceId": "DevExpress.Blazor",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\",
       "BasePath": "_content/DevExpress.Blazor",
-      "RelativePath": "modules/filemanager-3beff649.js",
+      "RelativePath": "modules/filemanager-35bab3be.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1408,15 +1408,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\filemanager-3beff649.js"
+      "OriginalItemSpec": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\filemanager-35bab3be.js"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\flyoutcomponents-a20614f8.js",
+      "Identity": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\flyoutcomponents-f70521df.js",
       "SourceId": "DevExpress.Blazor",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\",
       "BasePath": "_content/DevExpress.Blazor",
-      "RelativePath": "modules/flyoutcomponents-a20614f8.js",
+      "RelativePath": "modules/flyoutcomponents-f70521df.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1425,15 +1425,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\flyoutcomponents-a20614f8.js"
+      "OriginalItemSpec": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\flyoutcomponents-f70521df.js"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\focus-utils-ffe3c265.js",
+      "Identity": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\focus-utils-000f342e.js",
       "SourceId": "DevExpress.Blazor",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\",
       "BasePath": "_content/DevExpress.Blazor",
-      "RelativePath": "modules/focus-utils-ffe3c265.js",
+      "RelativePath": "modules/focus-utils-000f342e.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1442,15 +1442,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\focus-utils-ffe3c265.js"
+      "OriginalItemSpec": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\focus-utils-000f342e.js"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\form-layout-5fd47e55.js",
+      "Identity": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\form-layout-3883f895.js",
       "SourceId": "DevExpress.Blazor",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\",
       "BasePath": "_content/DevExpress.Blazor",
-      "RelativePath": "modules/form-layout-5fd47e55.js",
+      "RelativePath": "modules/form-layout-3883f895.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1459,15 +1459,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\form-layout-5fd47e55.js"
+      "OriginalItemSpec": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\form-layout-3883f895.js"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\grid-ca5b1909.js",
+      "Identity": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\grid-3c8893ec.js",
       "SourceId": "DevExpress.Blazor",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\",
       "BasePath": "_content/DevExpress.Blazor",
-      "RelativePath": "modules/grid-ca5b1909.js",
+      "RelativePath": "modules/grid-3c8893ec.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1476,15 +1476,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\grid-ca5b1909.js"
+      "OriginalItemSpec": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\grid-3c8893ec.js"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\group-control-09082f4f.js",
+      "Identity": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\group-control-09a11c22.js",
       "SourceId": "DevExpress.Blazor",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\",
       "BasePath": "_content/DevExpress.Blazor",
-      "RelativePath": "modules/group-control-09082f4f.js",
+      "RelativePath": "modules/group-control-09a11c22.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1493,15 +1493,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\group-control-09082f4f.js"
+      "OriginalItemSpec": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\group-control-09a11c22.js"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\index-ff79a357.js",
+      "Identity": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\index-ae0b908a.js",
       "SourceId": "DevExpress.Blazor",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\",
       "BasePath": "_content/DevExpress.Blazor",
-      "RelativePath": "modules/index-ff79a357.js",
+      "RelativePath": "modules/index-ae0b908a.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1510,15 +1510,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\index-ff79a357.js"
+      "OriginalItemSpec": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\index-ae0b908a.js"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\input-d9d65cb4.js",
+      "Identity": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\input-d332c39c.js",
       "SourceId": "DevExpress.Blazor",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\",
       "BasePath": "_content/DevExpress.Blazor",
-      "RelativePath": "modules/input-d9d65cb4.js",
+      "RelativePath": "modules/input-d332c39c.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1527,15 +1527,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\input-d9d65cb4.js"
+      "OriginalItemSpec": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\input-d332c39c.js"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\input-group-container-be6d5fb0.js",
+      "Identity": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\input-group-container-5f00a731.js",
       "SourceId": "DevExpress.Blazor",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\",
       "BasePath": "_content/DevExpress.Blazor",
-      "RelativePath": "modules/input-group-container-be6d5fb0.js",
+      "RelativePath": "modules/input-group-container-5f00a731.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1544,15 +1544,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\input-group-container-be6d5fb0.js"
+      "OriginalItemSpec": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\input-group-container-5f00a731.js"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\key-a6c46d18.js",
+      "Identity": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\key-a83dbe57.js",
       "SourceId": "DevExpress.Blazor",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\",
       "BasePath": "_content/DevExpress.Blazor",
-      "RelativePath": "modules/key-a6c46d18.js",
+      "RelativePath": "modules/key-a83dbe57.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1561,15 +1561,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\key-a6c46d18.js"
+      "OriginalItemSpec": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\key-a83dbe57.js"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\layout-builder-a78995e3.js",
+      "Identity": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\layout-builder-98e87af4.js",
       "SourceId": "DevExpress.Blazor",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\",
       "BasePath": "_content/DevExpress.Blazor",
-      "RelativePath": "modules/layout-builder-a78995e3.js",
+      "RelativePath": "modules/layout-builder-98e87af4.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1578,13 +1578,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\layout-builder-a78995e3.js"
+      "OriginalItemSpec": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\layout-builder-98e87af4.js"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\layouthelper-4b19d191.js",
+      "Identity": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\layouthelper-4b19d191.js",
       "SourceId": "DevExpress.Blazor",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\",
       "BasePath": "_content/DevExpress.Blazor",
       "RelativePath": "modules/layouthelper-4b19d191.js",
       "AssetKind": "All",
@@ -1595,15 +1595,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\layouthelper-4b19d191.js"
+      "OriginalItemSpec": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\layouthelper-4b19d191.js"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\lit-element-1e675104.js",
+      "Identity": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\lit-element-b0a6fcba.js",
       "SourceId": "DevExpress.Blazor",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\",
       "BasePath": "_content/DevExpress.Blazor",
-      "RelativePath": "modules/lit-element-1e675104.js",
+      "RelativePath": "modules/lit-element-b0a6fcba.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1612,15 +1612,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\lit-element-1e675104.js"
+      "OriginalItemSpec": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\lit-element-b0a6fcba.js"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\lit-element-base-3b55fdd3.js",
+      "Identity": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\lit-element-base-af247167.js",
       "SourceId": "DevExpress.Blazor",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\",
       "BasePath": "_content/DevExpress.Blazor",
-      "RelativePath": "modules/lit-element-base-3b55fdd3.js",
+      "RelativePath": "modules/lit-element-base-af247167.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1629,13 +1629,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\lit-element-base-3b55fdd3.js"
+      "OriginalItemSpec": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\lit-element-base-af247167.js"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\locker-c40478e6.js",
+      "Identity": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\locker-c40478e6.js",
       "SourceId": "DevExpress.Blazor",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\",
       "BasePath": "_content/DevExpress.Blazor",
       "RelativePath": "modules/locker-c40478e6.js",
       "AssetKind": "All",
@@ -1646,13 +1646,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\locker-c40478e6.js"
+      "OriginalItemSpec": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\locker-c40478e6.js"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\logicaltreehelper-15991dcb.js",
+      "Identity": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\logicaltreehelper-15991dcb.js",
       "SourceId": "DevExpress.Blazor",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\",
       "BasePath": "_content/DevExpress.Blazor",
       "RelativePath": "modules/logicaltreehelper-15991dcb.js",
       "AssetKind": "All",
@@ -1663,15 +1663,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\logicaltreehelper-15991dcb.js"
+      "OriginalItemSpec": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\logicaltreehelper-15991dcb.js"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\masks-378fccab.js",
+      "Identity": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\masks-611d9850.js",
       "SourceId": "DevExpress.Blazor",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\",
       "BasePath": "_content/DevExpress.Blazor",
-      "RelativePath": "modules/masks-378fccab.js",
+      "RelativePath": "modules/masks-611d9850.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1680,15 +1680,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\masks-378fccab.js"
+      "OriginalItemSpec": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\masks-611d9850.js"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\menu-a56111df.js",
+      "Identity": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\menu-d76f24f6.js",
       "SourceId": "DevExpress.Blazor",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\",
       "BasePath": "_content/DevExpress.Blazor",
-      "RelativePath": "modules/menu-a56111df.js",
+      "RelativePath": "modules/menu-d76f24f6.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1697,15 +1697,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\menu-a56111df.js"
+      "OriginalItemSpec": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\menu-d76f24f6.js"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\modalcomponents-4618060d.js",
+      "Identity": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\modalcomponents-25dbcc22.js",
       "SourceId": "DevExpress.Blazor",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\",
       "BasePath": "_content/DevExpress.Blazor",
-      "RelativePath": "modules/modalcomponents-4618060d.js",
+      "RelativePath": "modules/modalcomponents-25dbcc22.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1714,13 +1714,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\modalcomponents-4618060d.js"
+      "OriginalItemSpec": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\modalcomponents-25dbcc22.js"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\nameof-factory-64d95f5b.js",
+      "Identity": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\nameof-factory-64d95f5b.js",
       "SourceId": "DevExpress.Blazor",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\",
       "BasePath": "_content/DevExpress.Blazor",
       "RelativePath": "modules/nameof-factory-64d95f5b.js",
       "AssetKind": "All",
@@ -1731,13 +1731,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\nameof-factory-64d95f5b.js"
+      "OriginalItemSpec": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\nameof-factory-64d95f5b.js"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\observables-589a5615.js",
+      "Identity": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\observables-589a5615.js",
       "SourceId": "DevExpress.Blazor",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\",
       "BasePath": "_content/DevExpress.Blazor",
       "RelativePath": "modules/observables-589a5615.js",
       "AssetKind": "All",
@@ -1748,13 +1748,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\observables-589a5615.js"
+      "OriginalItemSpec": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\observables-589a5615.js"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\pager-64a19cb6.js",
+      "Identity": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\pager-64a19cb6.js",
       "SourceId": "DevExpress.Blazor",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\",
       "BasePath": "_content/DevExpress.Blazor",
       "RelativePath": "modules/pager-64a19cb6.js",
       "AssetKind": "All",
@@ -1765,15 +1765,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\pager-64a19cb6.js"
+      "OriginalItemSpec": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\pager-64a19cb6.js"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\pieChart-06d8b29d.js",
+      "Identity": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\pieChart-88109f1b.js",
       "SourceId": "DevExpress.Blazor",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\",
       "BasePath": "_content/DevExpress.Blazor",
-      "RelativePath": "modules/pieChart-06d8b29d.js",
+      "RelativePath": "modules/pieChart-88109f1b.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1782,13 +1782,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\pieChart-06d8b29d.js"
+      "OriginalItemSpec": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\pieChart-88109f1b.js"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\point-9c6ab88a.js",
+      "Identity": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\point-9c6ab88a.js",
       "SourceId": "DevExpress.Blazor",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\",
       "BasePath": "_content/DevExpress.Blazor",
       "RelativePath": "modules/point-9c6ab88a.js",
       "AssetKind": "All",
@@ -1799,15 +1799,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\point-9c6ab88a.js"
+      "OriginalItemSpec": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\point-9c6ab88a.js"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\popup-614e8ef3.js",
+      "Identity": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\popup-97b8c2f4.js",
       "SourceId": "DevExpress.Blazor",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\",
       "BasePath": "_content/DevExpress.Blazor",
-      "RelativePath": "modules/popup-614e8ef3.js",
+      "RelativePath": "modules/popup-97b8c2f4.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1816,15 +1816,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\popup-614e8ef3.js"
+      "OriginalItemSpec": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\popup-97b8c2f4.js"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\popupbasedialog-01642b52.js",
+      "Identity": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\popupbasedialog-0778f080.js",
       "SourceId": "DevExpress.Blazor",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\",
       "BasePath": "_content/DevExpress.Blazor",
-      "RelativePath": "modules/popupbasedialog-01642b52.js",
+      "RelativePath": "modules/popupbasedialog-0778f080.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1833,15 +1833,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\popupbasedialog-01642b52.js"
+      "OriginalItemSpec": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\popupbasedialog-0778f080.js"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\popupportal-5a4f5157.js",
+      "Identity": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\popupportal-447465dc.js",
       "SourceId": "DevExpress.Blazor",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\",
       "BasePath": "_content/DevExpress.Blazor",
-      "RelativePath": "modules/popupportal-5a4f5157.js",
+      "RelativePath": "modules/popupportal-447465dc.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1850,15 +1850,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\popupportal-5a4f5157.js"
+      "OriginalItemSpec": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\popupportal-447465dc.js"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\popuproot-3cc8a123.js",
+      "Identity": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\popuproot-d37b16a2.js",
       "SourceId": "DevExpress.Blazor",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\",
       "BasePath": "_content/DevExpress.Blazor",
-      "RelativePath": "modules/popuproot-3cc8a123.js",
+      "RelativePath": "modules/popuproot-d37b16a2.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1867,13 +1867,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\popuproot-3cc8a123.js"
+      "OriginalItemSpec": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\popuproot-d37b16a2.js"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\positionlistener-199bcc68.js",
+      "Identity": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\positionlistener-199bcc68.js",
       "SourceId": "DevExpress.Blazor",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\",
       "BasePath": "_content/DevExpress.Blazor",
       "RelativePath": "modules/positionlistener-199bcc68.js",
       "AssetKind": "All",
@@ -1884,13 +1884,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\positionlistener-199bcc68.js"
+      "OriginalItemSpec": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\positionlistener-199bcc68.js"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\positiontracker-dba18a16.js",
+      "Identity": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\positiontracker-dba18a16.js",
       "SourceId": "DevExpress.Blazor",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\",
       "BasePath": "_content/DevExpress.Blazor",
       "RelativePath": "modules/positiontracker-dba18a16.js",
       "AssetKind": "All",
@@ -1901,13 +1901,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\positiontracker-dba18a16.js"
+      "OriginalItemSpec": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\positiontracker-dba18a16.js"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\property-d3853089.js",
+      "Identity": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\property-d3853089.js",
       "SourceId": "DevExpress.Blazor",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\",
       "BasePath": "_content/DevExpress.Blazor",
       "RelativePath": "modules/property-d3853089.js",
       "AssetKind": "All",
@@ -1918,13 +1918,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\property-d3853089.js"
+      "OriginalItemSpec": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\property-d3853089.js"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\query-44b9267f.js",
+      "Identity": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\query-44b9267f.js",
       "SourceId": "DevExpress.Blazor",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\",
       "BasePath": "_content/DevExpress.Blazor",
       "RelativePath": "modules/query-44b9267f.js",
       "AssetKind": "All",
@@ -1935,13 +1935,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\query-44b9267f.js"
+      "OriginalItemSpec": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\query-44b9267f.js"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\rafaction-bba7928b.js",
+      "Identity": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\rafaction-bba7928b.js",
       "SourceId": "DevExpress.Blazor",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\",
       "BasePath": "_content/DevExpress.Blazor",
       "RelativePath": "modules/rafaction-bba7928b.js",
       "AssetKind": "All",
@@ -1952,13 +1952,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\rafaction-bba7928b.js"
+      "OriginalItemSpec": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\rafaction-bba7928b.js"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\rect-7fc5c2ef.js",
+      "Identity": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\rect-7fc5c2ef.js",
       "SourceId": "DevExpress.Blazor",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\",
       "BasePath": "_content/DevExpress.Blazor",
       "RelativePath": "modules/rect-7fc5c2ef.js",
       "AssetKind": "All",
@@ -1969,15 +1969,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\rect-7fc5c2ef.js"
+      "OriginalItemSpec": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\rect-7fc5c2ef.js"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\ribbon-f64c8182.js",
+      "Identity": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\ribbon-f3ca5a80.js",
       "SourceId": "DevExpress.Blazor",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\",
       "BasePath": "_content/DevExpress.Blazor",
-      "RelativePath": "modules/ribbon-f64c8182.js",
+      "RelativePath": "modules/ribbon-f3ca5a80.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1986,15 +1986,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\ribbon-f64c8182.js"
+      "OriginalItemSpec": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\ribbon-f3ca5a80.js"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\ribbon-tabs-75f916d3.js",
+      "Identity": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\ribbon-tabs-d0bbd24f.js",
       "SourceId": "DevExpress.Blazor",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\",
       "BasePath": "_content/DevExpress.Blazor",
-      "RelativePath": "modules/ribbon-tabs-75f916d3.js",
+      "RelativePath": "modules/ribbon-tabs-d0bbd24f.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2003,15 +2003,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\ribbon-tabs-75f916d3.js"
+      "OriginalItemSpec": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\ribbon-tabs-d0bbd24f.js"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\roller-1982cc1d.js",
+      "Identity": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\roller-7d6bc962.js",
       "SourceId": "DevExpress.Blazor",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\",
       "BasePath": "_content/DevExpress.Blazor",
-      "RelativePath": "modules/roller-1982cc1d.js",
+      "RelativePath": "modules/roller-7d6bc962.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2020,15 +2020,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\roller-1982cc1d.js"
+      "OriginalItemSpec": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\roller-7d6bc962.js"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\scheduler-b89d6360.js",
+      "Identity": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\scheduler-01e04136.js",
       "SourceId": "DevExpress.Blazor",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\",
       "BasePath": "_content/DevExpress.Blazor",
-      "RelativePath": "modules/scheduler-b89d6360.js",
+      "RelativePath": "modules/scheduler-01e04136.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2037,13 +2037,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\scheduler-b89d6360.js"
+      "OriginalItemSpec": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\scheduler-01e04136.js"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\simpleevent-84045703.js",
+      "Identity": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\simpleevent-84045703.js",
       "SourceId": "DevExpress.Blazor",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\",
       "BasePath": "_content/DevExpress.Blazor",
       "RelativePath": "modules/simpleevent-84045703.js",
       "AssetKind": "All",
@@ -2054,13 +2054,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\simpleevent-84045703.js"
+      "OriginalItemSpec": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\simpleevent-84045703.js"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\snackbar-ed4675f0.js",
+      "Identity": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\snackbar-ed4675f0.js",
       "SourceId": "DevExpress.Blazor",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\",
       "BasePath": "_content/DevExpress.Blazor",
       "RelativePath": "modules/snackbar-ed4675f0.js",
       "AssetKind": "All",
@@ -2071,15 +2071,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\snackbar-ed4675f0.js"
+      "OriginalItemSpec": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\snackbar-ed4675f0.js"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\spinedit-56c24cba.js",
+      "Identity": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\spinedit-eb133731.js",
       "SourceId": "DevExpress.Blazor",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\",
       "BasePath": "_content/DevExpress.Blazor",
-      "RelativePath": "modules/spinedit-56c24cba.js",
+      "RelativePath": "modules/spinedit-eb133731.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2088,15 +2088,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\spinedit-56c24cba.js"
+      "OriginalItemSpec": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\spinedit-eb133731.js"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\supportcaptureelement-2f039fc5.js",
+      "Identity": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\supportcaptureelement-35919fa4.js",
       "SourceId": "DevExpress.Blazor",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\",
       "BasePath": "_content/DevExpress.Blazor",
-      "RelativePath": "modules/supportcaptureelement-2f039fc5.js",
+      "RelativePath": "modules/supportcaptureelement-35919fa4.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2105,13 +2105,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\supportcaptureelement-2f039fc5.js"
+      "OriginalItemSpec": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\supportcaptureelement-35919fa4.js"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\thumb-b78dcc42.js",
+      "Identity": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\thumb-b78dcc42.js",
       "SourceId": "DevExpress.Blazor",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\",
       "BasePath": "_content/DevExpress.Blazor",
       "RelativePath": "modules/thumb-b78dcc42.js",
       "AssetKind": "All",
@@ -2122,15 +2122,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\thumb-b78dcc42.js"
+      "OriginalItemSpec": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\thumb-b78dcc42.js"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\toolbar-529d43d0.js",
+      "Identity": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\toolbar-ff62f84b.js",
       "SourceId": "DevExpress.Blazor",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\",
       "BasePath": "_content/DevExpress.Blazor",
-      "RelativePath": "modules/toolbar-529d43d0.js",
+      "RelativePath": "modules/toolbar-ff62f84b.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2139,15 +2139,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\toolbar-529d43d0.js"
+      "OriginalItemSpec": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\toolbar-ff62f84b.js"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\tooltip-ed5276dd.js",
+      "Identity": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\tooltip-7f828cf8.js",
       "SourceId": "DevExpress.Blazor",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\",
       "BasePath": "_content/DevExpress.Blazor",
-      "RelativePath": "modules/tooltip-ed5276dd.js",
+      "RelativePath": "modules/tooltip-7f828cf8.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2156,15 +2156,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\tooltip-ed5276dd.js"
+      "OriginalItemSpec": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\tooltip-7f828cf8.js"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\touch-7fab0aa2.js",
+      "Identity": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\touch-53923870.js",
       "SourceId": "DevExpress.Blazor",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\",
       "BasePath": "_content/DevExpress.Blazor",
-      "RelativePath": "modules/touch-7fab0aa2.js",
+      "RelativePath": "modules/touch-53923870.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2173,13 +2173,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\touch-7fab0aa2.js"
+      "OriginalItemSpec": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\touch-53923870.js"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\transformhelper-ebad0156.js",
+      "Identity": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\transformhelper-ebad0156.js",
       "SourceId": "DevExpress.Blazor",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\",
       "BasePath": "_content/DevExpress.Blazor",
       "RelativePath": "modules/transformhelper-ebad0156.js",
       "AssetKind": "All",
@@ -2190,15 +2190,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\transformhelper-ebad0156.js"
+      "OriginalItemSpec": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\transformhelper-ebad0156.js"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\upload-89109c23.js",
+      "Identity": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\upload-4e0b56a1.js",
       "SourceId": "DevExpress.Blazor",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\",
       "BasePath": "_content/DevExpress.Blazor",
-      "RelativePath": "modules/upload-89109c23.js",
+      "RelativePath": "modules/upload-4e0b56a1.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2207,15 +2207,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\upload-89109c23.js"
+      "OriginalItemSpec": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\upload-4e0b56a1.js"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\windowcomponents-0b4615d6.js",
+      "Identity": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\windowcomponents-04d3e840.js",
       "SourceId": "DevExpress.Blazor",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\",
       "BasePath": "_content/DevExpress.Blazor",
-      "RelativePath": "modules/windowcomponents-0b4615d6.js",
+      "RelativePath": "modules/windowcomponents-04d3e840.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2224,13 +2224,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\windowcomponents-0b4615d6.js"
+      "OriginalItemSpec": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\windowcomponents-04d3e840.js"
     },
     {
-      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\window-resize-helper-8b32f302.js",
+      "Identity": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\window-resize-helper-8b32f302.js",
       "SourceId": "DevExpress.Blazor",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\",
       "BasePath": "_content/DevExpress.Blazor",
       "RelativePath": "modules/window-resize-helper-8b32f302.js",
       "AssetKind": "All",
@@ -2241,13 +2241,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\devexpress.blazor\\22.1.3\\staticwebassets\\modules\\window-resize-helper-8b32f302.js"
+      "OriginalItemSpec": "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\staticwebassets\\modules\\window-resize-helper-8b32f302.js"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\BlazorDXAPP\\BlazorDXAPP\\obj\\Release\\net6.0\\scopedcss\\bundle\\BlazorDXAPP.styles.css",
+      "Identity": "C:\\Users\\DELL\\Documents\\sample\\DevReportSample\\BlazorDXAPP\\BlazorDXAPP\\obj\\Release\\net6.0\\scopedcss\\bundle\\BlazorDXAPP.styles.css",
       "SourceId": "BlazorDXAPP",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\BlazorDXAPP\\BlazorDXAPP\\obj\\Release\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\sample\\DevReportSample\\BlazorDXAPP\\BlazorDXAPP\\obj\\Release\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/BlazorDXAPP",
       "RelativePath": "BlazorDXAPP.styles.css",
       "AssetKind": "All",
@@ -2258,13 +2258,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\source\\repos\\BlazorDXAPP\\BlazorDXAPP\\obj\\Release\\net6.0\\scopedcss\\bundle\\BlazorDXAPP.styles.css"
+      "OriginalItemSpec": "C:\\Users\\DELL\\Documents\\sample\\DevReportSample\\BlazorDXAPP\\BlazorDXAPP\\obj\\Release\\net6.0\\scopedcss\\bundle\\BlazorDXAPP.styles.css"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\BlazorDXAPP\\BlazorDXAPP\\obj\\Release\\net6.0\\scopedcss\\projectbundle\\BlazorDXAPP.bundle.scp.css",
+      "Identity": "C:\\Users\\DELL\\Documents\\sample\\DevReportSample\\BlazorDXAPP\\BlazorDXAPP\\obj\\Release\\net6.0\\scopedcss\\projectbundle\\BlazorDXAPP.bundle.scp.css",
       "SourceId": "BlazorDXAPP",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\BlazorDXAPP\\BlazorDXAPP\\obj\\Release\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\sample\\DevReportSample\\BlazorDXAPP\\BlazorDXAPP\\obj\\Release\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/BlazorDXAPP",
       "RelativePath": "BlazorDXAPP.bundle.scp.css",
       "AssetKind": "All",
@@ -2275,13 +2275,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\source\\repos\\BlazorDXAPP\\BlazorDXAPP\\obj\\Release\\net6.0\\scopedcss\\projectbundle\\BlazorDXAPP.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\DELL\\Documents\\sample\\DevReportSample\\BlazorDXAPP\\BlazorDXAPP\\obj\\Release\\net6.0\\scopedcss\\projectbundle\\BlazorDXAPP.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\BlazorDXAPP\\BlazorDXAPP\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Identity": "C:\\Users\\DELL\\Documents\\sample\\DevReportSample\\BlazorDXAPP\\BlazorDXAPP\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "SourceId": "BlazorDXAPP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\BlazorDXAPP\\BlazorDXAPP\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\sample\\DevReportSample\\BlazorDXAPP\\BlazorDXAPP\\wwwroot\\",
       "BasePath": "_content/BlazorDXAPP",
       "RelativePath": "css/bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -2295,10 +2295,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\BlazorDXAPP\\BlazorDXAPP\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\DELL\\Documents\\sample\\DevReportSample\\BlazorDXAPP\\BlazorDXAPP\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "BlazorDXAPP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\BlazorDXAPP\\BlazorDXAPP\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\sample\\DevReportSample\\BlazorDXAPP\\BlazorDXAPP\\wwwroot\\",
       "BasePath": "_content/BlazorDXAPP",
       "RelativePath": "css/bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -2312,10 +2312,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\BlazorDXAPP\\BlazorDXAPP\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "Identity": "C:\\Users\\DELL\\Documents\\sample\\DevReportSample\\BlazorDXAPP\\BlazorDXAPP\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
       "SourceId": "BlazorDXAPP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\BlazorDXAPP\\BlazorDXAPP\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\sample\\DevReportSample\\BlazorDXAPP\\BlazorDXAPP\\wwwroot\\",
       "BasePath": "_content/BlazorDXAPP",
       "RelativePath": "css/open-iconic/font/css/open-iconic-bootstrap.min.css",
       "AssetKind": "All",
@@ -2329,10 +2329,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\BlazorDXAPP\\BlazorDXAPP\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "Identity": "C:\\Users\\DELL\\Documents\\sample\\DevReportSample\\BlazorDXAPP\\BlazorDXAPP\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
       "SourceId": "BlazorDXAPP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\BlazorDXAPP\\BlazorDXAPP\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\sample\\DevReportSample\\BlazorDXAPP\\BlazorDXAPP\\wwwroot\\",
       "BasePath": "_content/BlazorDXAPP",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.eot",
       "AssetKind": "All",
@@ -2346,10 +2346,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\BlazorDXAPP\\BlazorDXAPP\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "Identity": "C:\\Users\\DELL\\Documents\\sample\\DevReportSample\\BlazorDXAPP\\BlazorDXAPP\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
       "SourceId": "BlazorDXAPP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\BlazorDXAPP\\BlazorDXAPP\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\sample\\DevReportSample\\BlazorDXAPP\\BlazorDXAPP\\wwwroot\\",
       "BasePath": "_content/BlazorDXAPP",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.otf",
       "AssetKind": "All",
@@ -2363,10 +2363,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\BlazorDXAPP\\BlazorDXAPP\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "Identity": "C:\\Users\\DELL\\Documents\\sample\\DevReportSample\\BlazorDXAPP\\BlazorDXAPP\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
       "SourceId": "BlazorDXAPP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\BlazorDXAPP\\BlazorDXAPP\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\sample\\DevReportSample\\BlazorDXAPP\\BlazorDXAPP\\wwwroot\\",
       "BasePath": "_content/BlazorDXAPP",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.svg",
       "AssetKind": "All",
@@ -2380,10 +2380,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\BlazorDXAPP\\BlazorDXAPP\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "Identity": "C:\\Users\\DELL\\Documents\\sample\\DevReportSample\\BlazorDXAPP\\BlazorDXAPP\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
       "SourceId": "BlazorDXAPP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\BlazorDXAPP\\BlazorDXAPP\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\sample\\DevReportSample\\BlazorDXAPP\\BlazorDXAPP\\wwwroot\\",
       "BasePath": "_content/BlazorDXAPP",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.ttf",
       "AssetKind": "All",
@@ -2397,10 +2397,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\BlazorDXAPP\\BlazorDXAPP\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "Identity": "C:\\Users\\DELL\\Documents\\sample\\DevReportSample\\BlazorDXAPP\\BlazorDXAPP\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
       "SourceId": "BlazorDXAPP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\BlazorDXAPP\\BlazorDXAPP\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\sample\\DevReportSample\\BlazorDXAPP\\BlazorDXAPP\\wwwroot\\",
       "BasePath": "_content/BlazorDXAPP",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.woff",
       "AssetKind": "All",
@@ -2414,10 +2414,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\BlazorDXAPP\\BlazorDXAPP\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "Identity": "C:\\Users\\DELL\\Documents\\sample\\DevReportSample\\BlazorDXAPP\\BlazorDXAPP\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
       "SourceId": "BlazorDXAPP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\BlazorDXAPP\\BlazorDXAPP\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\sample\\DevReportSample\\BlazorDXAPP\\BlazorDXAPP\\wwwroot\\",
       "BasePath": "_content/BlazorDXAPP",
       "RelativePath": "css/open-iconic/FONT-LICENSE",
       "AssetKind": "All",
@@ -2431,10 +2431,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\FONT-LICENSE"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\BlazorDXAPP\\BlazorDXAPP\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "Identity": "C:\\Users\\DELL\\Documents\\sample\\DevReportSample\\BlazorDXAPP\\BlazorDXAPP\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
       "SourceId": "BlazorDXAPP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\BlazorDXAPP\\BlazorDXAPP\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\sample\\DevReportSample\\BlazorDXAPP\\BlazorDXAPP\\wwwroot\\",
       "BasePath": "_content/BlazorDXAPP",
       "RelativePath": "css/open-iconic/ICON-LICENSE",
       "AssetKind": "All",
@@ -2448,10 +2448,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\ICON-LICENSE"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\BlazorDXAPP\\BlazorDXAPP\\wwwroot\\css\\open-iconic\\README.md",
+      "Identity": "C:\\Users\\DELL\\Documents\\sample\\DevReportSample\\BlazorDXAPP\\BlazorDXAPP\\wwwroot\\css\\open-iconic\\README.md",
       "SourceId": "BlazorDXAPP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\BlazorDXAPP\\BlazorDXAPP\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\sample\\DevReportSample\\BlazorDXAPP\\BlazorDXAPP\\wwwroot\\",
       "BasePath": "_content/BlazorDXAPP",
       "RelativePath": "css/open-iconic/README.md",
       "AssetKind": "All",
@@ -2465,10 +2465,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\README.md"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\BlazorDXAPP\\BlazorDXAPP\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\DELL\\Documents\\sample\\DevReportSample\\BlazorDXAPP\\BlazorDXAPP\\wwwroot\\css\\site.css",
       "SourceId": "BlazorDXAPP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\BlazorDXAPP\\BlazorDXAPP\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\sample\\DevReportSample\\BlazorDXAPP\\BlazorDXAPP\\wwwroot\\",
       "BasePath": "_content/BlazorDXAPP",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -2482,10 +2482,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\BlazorDXAPP\\BlazorDXAPP\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\DELL\\Documents\\sample\\DevReportSample\\BlazorDXAPP\\BlazorDXAPP\\wwwroot\\favicon.ico",
       "SourceId": "BlazorDXAPP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\BlazorDXAPP\\BlazorDXAPP\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\sample\\DevReportSample\\BlazorDXAPP\\BlazorDXAPP\\wwwroot\\",
       "BasePath": "_content/BlazorDXAPP",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",

@@ -19,9 +19,11 @@
 
     protected override async Task OnInitializedAsync()
     {
+      await  base.OnInitializedAsync();
         WeatherForecast[] forecasts = await ForecastService.GetForecastAsync(DateTime.Now);
         Report = new XtraReport();
         Report = new TestReport();
         Report.DataSource = forecasts;
+        await base.OnInitializedAsync();
     }
 }
